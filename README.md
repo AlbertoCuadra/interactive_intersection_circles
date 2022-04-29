@@ -6,5 +6,5 @@ This was an answer to a question in the MATLAB community.
 
 
 <p align="center">
-    <img src="https://github.com/AlbertoCuadra/interactive_intersection_circles/blob/main/static/example.svg" width="1000">
+    <img src="https://github.com/AlbertoCuadra/interactive_intersection_circles/blob/main/static/example.svg" width="800">
 </p>
