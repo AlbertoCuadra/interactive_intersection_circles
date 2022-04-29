@@ -2,7 +2,7 @@ Plot circles until the user right-clicks. If the circles intersect, they will ch
 
 This was an answer to a question in the MATLAB community.
 
-# Example
+### Example
 
 
 <p align="left">
